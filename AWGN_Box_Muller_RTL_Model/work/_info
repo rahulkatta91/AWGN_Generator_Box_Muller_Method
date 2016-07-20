@@ -7,378 +7,357 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/Rahul Katta/Desktop/ADD/Morse_code/New folder
+dC:/altera/15.1
 vAGWN_testbench
-Z0 !s110 1468391216
+Z0 !s110 1469057967
 !i10b 1
-!s100 b9dze9Gi8[Pz3XoUo]kG<1
-Ijz3h6PlDhN[zoRSXZdC973
+!s100 ggeGF72T3@?mf01;jZ<:R2
+IWm0QUV0h_TUecL=L8f8]N2
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller
-w1468391131
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/AWGN_testbench.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/AWGN_testbench.v
+Z2 dC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model
+w1468996816
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/AWGN_testbench.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/AWGN_testbench.v
 L0 3
 Z3 OV;L;10.4b;61
 r1
 !s85 0
 31
-Z4 !s108 1468391216.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/AWGN_testbench.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/AWGN_testbench.v|
+Z4 !s108 1469057967.000000
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/AWGN_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/AWGN_testbench.v|
 !i113 1
 Z5 o-work work
 n@a@g@w@n_testbench
-vLog
-Z6 !s110 1468391215
+vAWGN
+!s110 1469057185
 !i10b 1
-!s100 g]nNO9K7cJGnm4:c6@N=:1
-IUEkzNWZcW=0XTMdL5DV3@2
+!s100 @O[`GTV1[46e^a_^kHggf0
+ISm1dO?l8AiIWBoE]O6[X@3
 R1
 R2
-w1468387959
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log.v
-L0 2
-R3
-r1
-!s85 0
-31
-Z7 !s108 1468391215.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log.v|
-!i113 1
-R5
-n@log
-vLog_Coeffs
-R6
-!i10b 1
-!s100 nSGCUh@A4@Ij_Q:Ghi4Gf1
-In>^dKG9R:g[aodj>=No^R0
-R1
-R2
-w1468387994
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log_Coeffs.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log_Coeffs.v
+w1469050097
+Z6 8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Main.v
+Z7 FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Main.v
 L0 3
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log_Coeffs.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Log_Coeffs.v|
+!s108 1469057185.000000
+Z8 !s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Main.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Main.v|
 !i113 1
 R5
-n@log_@coeffs
-vLZD
-R6
-!i10b 1
-!s100 D]Q^In?FZFDKDaV9_J3VX1
-IL[M?g@=bi^AnPa1n:41PC1
-R1
-R2
-w1468389440
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD.v
-L0 2
-R3
-r1
-!s85 0
-31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD.v|
-!i113 1
-R5
-n@l@z@d
-vLZD_test
-!s110 1468357722
-!i10b 1
-!s100 ZAaf^4:`a`kl0kPMPnKcS0
-IXbWgcW4U2[TN4?M5E=Y_]1
-R1
-R2
-w1468324623
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD_test.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD_test.v
-L0 2
-R3
-r1
-!s85 0
-31
-!s108 1468357722.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD_test.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/LZD_test.v|
-!i113 1
-R5
-n@l@z@d_test
-vMain
+n@a@w@g@n
+vLog
 R0
 !i10b 1
-!s100 G;k;NEgac>CXFY=@7Qo]j2
-I`k@IjCl3;QLN4<NnaJig_0
+!s100 g]nNO9K7cJGnm4:c6@N=:1
+IcScGMiEleR_g1fhfmhGBH0
 R1
 R2
-w1468386812
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Main.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Main.v
+w1468387959
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log.v|
+!i113 1
+R5
+n@log
+vLog_Coeffs
+R0
+!i10b 1
+!s100 nSGCUh@A4@Ij_Q:Ghi4Gf1
+I`ZnH:JG]0XQefgZLnno5j3
+R1
+R2
+w1468387994
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log_Coeffs.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log_Coeffs.v
 L0 3
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Main.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Main.v|
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log_Coeffs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Log_Coeffs.v|
 !i113 1
 R5
-n@main
-vROM_Sin_Coeffs
-!s110 1468352516
+n@log_@coeffs
+vLZD
+R0
 !i10b 1
-!s100 Z^a>6HJ`X5konL;Zj2^<j2
-I47^U3PQcE4_R^SP]mE=]70
+!s100 D]Q^In?FZFDKDaV9_J3VX1
+IScB`g5GGDGZSY]]h5b=g90
 R1
 R2
-w1468352510
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Coeffs.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Coeffs.v
+w1468389440
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD.v|
+!i113 1
+R5
+n@l@z@d
+vLZD_test
+!s110 1468974373
+!i10b 1
+!s100 ZAaf^4:`a`kl0kPMPnKcS0
+IBgklM65<OGF9T;9`]kJ7C2
+R1
+R2
+w1468324623
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD_test.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD_test.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1468974373.000000
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/LZD_test.v|
+!i113 1
+R5
+n@l@z@d_test
+vMain
+Z10 !s110 1469057968
+!i10b 1
+!s100 jN:WfGY^`ET8CdDYBfme52
+I6fiSHY_5_5G]8HLbRkRUO0
+R1
+R2
+w1469057928
+R6
+R7
 L0 3
 R3
 r1
 !s85 0
 31
-!s108 1468352516.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Coeffs.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Coeffs.v|
+Z11 !s108 1469057968.000000
+R8
+R9
 !i113 1
 R5
-n@r@o@m_@sin_@coeffs
-vROM_Sin_Cos_Coeffs
-!s110 1468287156
-!i10b 1
-!s100 =T3a]7Nz?1bVM0Q9QI_;d0
-I^ghA55g:MjJ3AQ7]2:=c92
-R1
-R2
-w1468287153
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Cos_Coeffs.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Cos_Coeffs.v
-L0 2
-R3
-r1
-!s85 0
-31
-!s108 1468287156.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Cos_Coeffs.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/ROM_Sin_Cos_Coeffs.v|
-!i113 1
-R5
-n@r@o@m_@sin_@cos_@coeffs
+n@main
 vSin_Cos
-R6
+R10
 !i10b 1
 !s100 ZW]?Z<PHP2dJIaC_XY]f50
-I3n]l]2WTPB9;<e>D=BPZ71
+IW8HPgafi3:VkQ_[8]P18T2
 R1
 R2
 w1468389364
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos.v
 L0 2
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos.v|
+R11
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos.v|
 !i113 1
 R5
 n@sin_@cos
 vSin_Cos_Coeffs
-R6
+R10
 !i10b 1
 !s100 ^`8PHFR@9dA[MSY=?z5=e1
-IO]aBF3^RclBAl:>2]bZk=1
+IQTWJ@>I1if`CC[HoC1eVo3
 R1
 R2
 w1468387804
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos_Coeffs.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos_Coeffs.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos_Coeffs.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos_Coeffs.v
 L0 4
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos_Coeffs.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sin_Cos_Coeffs.v|
+R11
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos_Coeffs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sin_Cos_Coeffs.v|
 !i113 1
 R5
 n@sin_@cos_@coeffs
 vSqrt
-R6
+R10
 !i10b 1
 !s100 P?0`[[YJ>^lC70OET^WON1
-I^Vh1:<nYAeXc0>2eMbfk31
+I_QMh7P^W5i^e?A6T20a3D1
 R1
 R2
 w1468389356
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt.v
 L0 2
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt.v|
+R11
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt.v|
 !i113 1
 R5
 n@sqrt
 vSqrt1_Coeffs
-R6
+R10
 !i10b 1
 !s100 7_b4l:<;L[ffY:5Ea[cJV0
-IV8EQ3i>lGHmn4i1J2V`1N2
+I`XZUoU8^[;YQd7LeOJI?`2
 R1
 R2
 w1468388064
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt1_Coeffs.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt1_Coeffs.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt1_Coeffs.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt1_Coeffs.v
 L0 3
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt1_Coeffs.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt1_Coeffs.v|
+R11
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt1_Coeffs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt1_Coeffs.v|
 !i113 1
 R5
 n@sqrt1_@coeffs
 vSqrt2_Coeffs
-R6
+R10
 !i10b 1
 !s100 ^L6SbD@?aUW?6?71BTKE;2
-IXdM][dfTBFDh=YJeH__G;0
+I=^iBW>KF?;izB_?faF[HJ0
 R1
 R2
 w1468388070
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt2_Coeffs.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt2_Coeffs.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt2_Coeffs.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt2_Coeffs.v
 L0 3
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt2_Coeffs.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/Sqrt2_Coeffs.v|
+R11
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt2_Coeffs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/Sqrt2_Coeffs.v|
 !i113 1
 R5
 n@sqrt2_@coeffs
 vtaus
-Z8 !s110 1468385114
+Z12 !s110 1468974374
 !i10b 1
 !s100 ]Id4G@PnJMk^zL]jGV9M:2
-IZ2EcJ<=H==]9IL3eBeITh1
+I56SP4OK2[DeMAUdo<Y0FM2
 R1
 R2
 w1468358664
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/taus.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/taus.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/taus.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/taus.v
 L0 1
 R3
 r1
 !s85 0
 31
-Z9 !s108 1468385114.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/taus.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/taus.v|
+Z13 !s108 1468974374.000000
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/taus.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/taus.v|
 !i113 1
 R5
 vtemp
-!s110 1468385115
+R12
 !i10b 1
 !s100 ?2j44n256NX>FhYU3S16I1
-I?@bN9`AC`Mn0dB:C=d7kK3
+IzlIajVb<^;mF1JFV]L8Rn3
 R1
 R2
 w1468378449
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/temp.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/temp.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/temp.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/temp.v
 L0 1
 R3
 r1
 !s85 0
 31
-!s108 1468385115.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/temp.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/temp.v|
+R13
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/temp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/temp.v|
 !i113 1
 R5
 vtestbench
-!s110 1468384554
+R12
 !i10b 1
 !s100 bza@JH]fPL1kZ4FgMf^5<1
-IVS_2C:>7d20bAmjDcdU0k3
+IeBL5W_8lK[eRL1V]EWhX^0
 R1
 R2
 w1468384550
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/testbench.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/testbench.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/testbench.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/testbench.v
 L0 1
 R3
 r1
 !s85 0
 31
-!s108 1468384554.000000
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/testbench.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/testbench.v|
+R13
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/testbench.v|
 !i113 1
 R5
 vURNG
-R6
+R10
 !i10b 1
 !s100 Pghc5[NJjDZ@DkY14N8j[3
-I9Q;fi]7Z:WY^6aP_`]^na1
+IY:FcP^VUg8ZeB]j?>:8SL2
 R1
 R2
 w1468387020
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/URNG.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/URNG.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/URNG.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/URNG.v
 L0 2
 R3
 r1
 !s85 0
 31
-R7
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/URNG.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/URNG.v|
+R11
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/URNG.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/URNG.v|
 !i113 1
 R5
 n@u@r@n@g
 vurng_test
-R8
+!s110 1468974372
 !i10b 1
 !s100 EGhXhHi1_mKVI<S`ogX3R1
-I[BOFRlK<4D_RTIXfmL_Cm0
+IC?56[D_05=ANjIUZWeW_b3
 R1
 R2
 w1468359509
-8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/urng_test.v
-FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/urng_test.v
+8C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/urng_test.v
+FC:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/urng_test.v
 L0 2
 R3
 r1
 !s85 0
 31
-R9
-!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/urng_test.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller/urng_test.v|
+!s108 1468974372.000000
+!s107 C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/urng_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Rahul Katta/Desktop/TexasLDPC Inc EvaluationProject/AWGN_Box_Muller_RTL_Model/urng_test.v|
 !i113 1
 R5
