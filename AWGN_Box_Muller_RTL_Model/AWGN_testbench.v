@@ -43,7 +43,7 @@ end
 initial 
 	begin
 	f1 = $fopen("awgn_rtl_x0.txt","w"); 		//Output file for AWGN_x0
-	f2 = $fopen("../../../awgn_matlab_x0.txt","r");		//Input file: Matlab model AWGN_x0
+	f2 = $fopen("awgn_matlab_x0.txt","r");		//Input file: Matlab model AWGN_x0
 	f3 = $fopen("error_x0.txt","w");		//Output file for error analysis of Matlab model and RTL model
 	@(x1); 						//Wait for reset to be released
 	@(posedge clk);  				//Wait for fisrt clock out of reset
@@ -66,7 +66,7 @@ initial
 	begin
 	
 	f5 = $fopen("awgn_rtl_x1.txt","w");			//Output file for AWGN_x1
-	f6 = $fopen("../../../awgn_matlab_x1.txt","r");		//Input file: Matlab model AWGN_x1
+	f6 = $fopen("awgn_matlab_x1.txt","r");		//Input file: Matlab model AWGN_x1
 	f7 = $fopen("error_x1.txt","w");		//Output file for error analysis of Matlab model and RTL model
 	
 	@(x1); 						//Wait for reset to be released
@@ -90,7 +90,7 @@ initial
 	begin
 	
 	f9 = $fopen("awgn_rtl_g0.txt","w");			//Output file for AWGN_g0
-	f10 = $fopen("../../../awgn_matlab_g0.txt","r");		//Input file: Matlab model AWGN_g0
+	f10 = $fopen("awgn_matlab_g0.txt","r");		//Input file: Matlab model AWGN_g0
 	f11 = $fopen("error_g0.txt","w");		//Output file for error analysis of Matlab model and RTL model
 	
 	@(x1); 						//Wait for reset to be released
@@ -114,7 +114,7 @@ initial
 	begin
 	
 	f13 = $fopen("awgn_rtl_g1.txt","w");		//Output file for AWGN_g1
-	f14 = $fopen("../../../awgn_matlab_g1.txt","r");		//Input file: Matlab model AWGN_g1
+	f14 = $fopen("awgn_matlab_g1.txt","r");		//Input file: Matlab model AWGN_g1
 	f15 = $fopen("error_g1.txt","w");		//Output file for error analysis of Matlab model and RTL model
 
 	
@@ -139,7 +139,7 @@ initial
 	begin
 	
 	f17 = $fopen("awgn_rtl_f.txt","w");			//Output file for AWGN_f
-	f18 = $fopen("../../../awgn_matlab_f.txt","r");		//Input file: Matlab model AWGN_f
+	f18 = $fopen("awgn_matlab_f.txt","r");		//Input file: Matlab model AWGN_f
 	f19 = $fopen("error_f.txt","w");		//Output file for error analysis of Matlab model and RTL model
 	
 	@(x1); 						//Wait for reset to be released
@@ -163,7 +163,7 @@ initial
 	begin
 	
 	f21 = $fopen("awgn_rtl_e.txt","w");			//Output file for AWGN_f
-	f22 = $fopen("../../../awgn_matlab_e.txt","r");		//Input file: Matlab model AWGN_f
+	f22 = $fopen("awgn_matlab_e.txt","r");		//Input file: Matlab model AWGN_f
 	f23 = $fopen("error_e.txt","w");		//Output file for error analysis of Matlab model and RTL model
 	
 	@(x1); 						//Wait for reset to be released
