@@ -1,6 +1,6 @@
 //Main module used for all module instantiations
 
-module Main(clk, reset,urng_seed1,urng_seed2,urng_seed3,urng_seed4,urng_seed5,urng_seed6,x0,x1,g0_final,g1_final,e_final,f_final);
+module Main(clk, reset,urng_seed1,urng_seed2,urng_seed3,urng_seed4,urng_seed5,urng_seed6,x0,x1,g0_final,g1_final,e_final,f_final,u0,u1);
 input clk,reset;
 input [31:0] urng_seed1,urng_seed2,urng_seed3,urng_seed4,urng_seed5,urng_seed6;
 
@@ -8,14 +8,17 @@ output [15:0] x0,x1;
 output [15:0]g0_final,g1_final;
 output [16:0]f_final;
 output [30:0]e_final;
+output [15:0] u1;
+output [47:0] u0;
+
 reg [15:0]g0_final,g1_final;
 reg [16:0]f_final;
 reg [30:0]e_final;
 reg [15:0] x0,x1;
-
-reg [32:0] temp0,temp1;
 reg [15:0] u1;
 reg [47:0] u0;
+
+reg [32:0] temp0,temp1;
 
 wire [31:0] a,b;
 wire [15:0] g0,g1;
@@ -52,12 +55,13 @@ Sqrt2_Coeffs Sqrt2_Coeffs2(clk,x_f_A,coeffs_Sqrt2_in);
 
 always@(clk)
 begin
-	assign u1[15:0] = a[15:0];
-	assign u0[47:0] = {b[31:0],a[31:16]};
-	assign g0_final = g0;
-	assign g1_final = g1;
-	assign f_final = f;
-	assign e_final = e;
+
+	u1[15:0] <= a[15:0];
+	u0[47:0] <= {b[31:0],a[31:16]};
+	g0_final <= g0;
+	g1_final <= g1;
+	f_final <= f;
+	e_final <= e;
 
 	temp0 <= g0*f;
 	temp1 <= g1*f;
