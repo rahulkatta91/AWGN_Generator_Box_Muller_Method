@@ -1,0 +1,12 @@
+Synthesis of the design produces 16 warnings, all of which can be ignored and yet the design is implementable on an FPGA. Most of the warnings produced are related to signals being on the sensitivity list of the always block and not using a few input port signals.
+------------------------------------------------------
+------------------------------------------------------
+A brief description on why the warnings can be ignored is listed below:
+
+1. Signals 'reset', 's1', 's2', 's3', 'test', 'test1', 'test2', 'out_test' from the URNG module to be on the sensitivity list of the always block. Although the logic involves any changes occurring in these signals to trigger the always block, these signals must not be present in the sensitivity list to ensure recursive operation of the Uniform Random Noise Generator.
+
+2. Another Signal 'e_temp' from the Log module is also not specified in the sensitivity list. This is because the signal in question is a result of an arithmetic operation which a constant value. Therefore, even if the another signal 'y_e' has an undefined signal at a certain time instance, signal 'e_temp' produces an output signal (which must be discarded).
+
+3. Input port signal exp_f is defined as a 6-bit wide signal, but the Srqt_range module utilizes only the 1st bit for implementing the Box Muller Architecture. As individual bits of a vector cannot be passed to a module, the entire signal has to given to the module (even if only the 1st bit is all that is needed).
+
+4. Input port signal 'clk' is utilized only for clock synchronization and hence is defined as an unconnected port.
